@@ -1488,8 +1488,8 @@ a {
 }
 
 .w3-white,.w3-hover-white:hover {
-    color: #000!important;
-    background-color: #fff!important
+    color: #dfdfdf!important;
+    background-color: #54595f81!important
 }
 
 .w3-black,.w3-hover-black:hover {
@@ -1503,8 +1503,8 @@ a {
 }
 
 .w3-light-grey,.w3-hover-light-grey:hover,.w3-light-gray,.w3-hover-light-gray:hover {
-    color: #000!important;
-    background-color: #f1f1f1!important
+    color: #dfdfdf!important;
+    background-color: #30363d!important
 }
 
 .w3-dark-grey,.w3-hover-dark-grey:hover,.w3-dark-gray,.w3-hover-dark-gray:hover {
@@ -1557,7 +1557,7 @@ a {
 }
 
 .w3-text-blue-grey,.w3-hover-text-blue-grey:hover,.w3-text-blue-gray,.w3-hover-text-blue-gray:hover {
-    color: #607d8b!important
+    color: #c5e3f1!important
 }
 
 .w3-text-green,.w3-hover-text-green:hover {
@@ -1625,7 +1625,7 @@ a {
 }
 
 .w3-text-grey,.w3-hover-text-grey:hover,.w3-text-gray,.w3-hover-text-gray:hover {
-    color: #757575!important
+    color: #dfdfdf!important
 }
 
 .w3-text-light-grey,.w3-hover-text-light-grey:hover,.w3-text-light-gray,.w3-hover-text-light-gray:hover {
